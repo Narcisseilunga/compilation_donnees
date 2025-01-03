@@ -1,0 +1,8 @@
+debut
+    declare sommes
+    sommes = 0
+    pour i de 1 a 10 faire
+        somme = sommes + i
+    fin pour
+    afficher somme
+fin
